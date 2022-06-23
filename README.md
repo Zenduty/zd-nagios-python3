@@ -17,8 +17,8 @@ Nagios is a free and open source computer-software application that monitors sys
 2. Download the Zenduty-Nagios files by following the steps given below:
 ```
 $ cd /tmp
-$ git clone https://github.com/Zenduty/zd-nagios.git
-$ cd zd-nagios
+$ git clone https://github.com/Zenduty/zd-nagios-python3.git
+$ cd zd-nagios-python3
 ```
 3. Open zenduty_nagios.cfg file and enter the integration key provided into the “pager” field.
 4. Move the Nagios Core configuration file into place. For Debian-based systems this is usually /etc/nagios3/conf.d:
